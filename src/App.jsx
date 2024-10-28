@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import Navbar from './components/Navbar';
+import Navbar from './components/NavBar'
 import EventCard from './components/EventCard';
 import EventModal from './components/EventModal';
 
